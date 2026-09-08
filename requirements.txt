@@ -1,0 +1,6 @@
+google-adk
+google-genai
+python-telegram-bot
+python-dotenv
+reportlab
+python-pptx
